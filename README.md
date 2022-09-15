@@ -17,6 +17,6 @@ _NOTE: Things may have been changed since then._
 
 To choose a specific project name for your React App using this template, simply add your desired project name (e.g. my-app) during the clone command
 
-```bash
-git clone https://github.com/emanuelefavero/create-react-app-minimal.git my-app
-```
+    ```bash
+    git clone https://github.com/emanuelefavero/create-react-app-minimal.git my-app
+    ```
